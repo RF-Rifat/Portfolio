@@ -292,7 +292,6 @@ header ul li a:hover:before {
 @media (max-width: 870px) {
 .home{
   flex-direction: column;
-  margin-top: 10%;
 }
   .home-text-icon{
   order: 2;
